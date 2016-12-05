@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sqlite_Edit_Delete</string>
+    <string name="hello">Sqlite Database</string>
+</resources>
